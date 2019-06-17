@@ -6,3 +6,17 @@ config
 /NetCoreCMS.Web/Modules/Core/NetCoreCMS.Modules.Cms/*.user
 /NetCoreCMS.Web/Themes/NetCoreCMS.Theme.Default/*.user
 /NetCoreCMS.Web/Core/NetCoreCMS.Modules.Cms/*.user
+/NetCoreCMS.Web/*.user
+*.user
+/NetCoreCMS.Web/setup.json
+/NetCoreCMS.Web/Data/NetCoreCMS.Database.SqLite.db
+/NetCoreCMS.Web/Data/.db
+*.pubxml
+/NetCoreCMS.Web/Logs/*.log
+.vs
+__Logs
+node_modules
+/NetCoreCMS.Web/Data/GlobalMessages/global_message_db.json
+/NetCoreCMS.Web/npm-debug.log
+/NetCoreCMS_Nazmul.sln
+NccStore
